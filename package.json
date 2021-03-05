@@ -1,0 +1,14 @@
+{
+  "name": "youtube-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Centell <centell@me.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ytdl": "^1.4.1"
+  }
+}
