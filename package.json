@@ -9,6 +9,10 @@
   "author": "Centell <centell@me.com>",
   "license": "ISC",
   "dependencies": {
-    "ytdl": "^1.4.1"
+    "ffmpeg": "^0.0.4",
+    "request": "^2.88.2",
+    "youtube-dl-exec": "^1.1.1",
+    "ytdl": "^1.4.1",
+    "ytdl-core": "^4.5.0"
   }
 }
